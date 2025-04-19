@@ -20,7 +20,7 @@ cd path/to/your/directory
 ```
 3. Clone the repository
 ```bash
-git clone 
+git clone https://github.com/DenizDervis/Knapsack_Problem.git
 ```
 **Run the application**
 1. Add the JavaFX libraries to the Java Project.
