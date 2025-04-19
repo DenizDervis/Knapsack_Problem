@@ -20,7 +20,7 @@ cd path/to/your/directory
 ```
 3. Clone the repository
 ```bash
-git clone https://gitlab.maastrichtuniversity.nl/bcs_group05_2023/project-1-1.git
+git clone 
 ```
 **Run the application**
 1. Add the JavaFX libraries to the Java Project.
